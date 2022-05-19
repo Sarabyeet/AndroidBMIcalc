@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="normal_range">(Normal range is 18.5 - 24.9)</string>
+</resources>
